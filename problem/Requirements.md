@@ -1,0 +1,84 @@
+## The Kata
+
+### Overview
+
+Program Name: ClearView
+
+Program Summary: ClearView is a supplemental HR platform that anonymizes candidate information while highlighting objective skills and qualifying experience to reduce bias in the hiring process. Clear View will also be service based, enabling DEI consultants to shadow employer interviews to rate the interviewer and report findings to executive management in an effort to proactively and strategically reduce bias in the interview process.
+
+Problem Statement #1: The lack of impactful metrics that identify and reduce potential biases in the job candidate hiring and interview process.
+
+Problem Statement #2: The redundancy and ineffectiveness of the traditional ATS (applicant tracking software) matching viable candidates with job descriptions.
+
+Technology Solution Description: HR platform that leverages AI to construct stories about a job candidate based on S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-Bound) goals, qualifications, and experience, that are then quantifiably aligned with open roles. All personal identifiable information and characteristics are eliminated until an objective determination is made on who the best candidate is to move forward with. The company pays to unlock the profile and data points are aggregated to reveal any disparities between those who are hired and those who were not selected.
+
+Tagline: Transparent Decision Making
+
+Users:
+- Employers - companies invested in providing a more equitable experience to career seekers.
+- Job Candidate - professionals seeking a less tedious and more equitable hiring process that values their skills and abilities.
+- Administrators - Management of the platform, registering users, providing data analytic reports on company performance and solution building services with executives.
+
+Requirements:
+
+- The platform must leverage AI to re-construct job seeker resumes into a S.M.A.R.T goal format and quantifiable align their experience to open roles posted by the hiring manager
+- Similarity Score/Match with job descriptions is a hard requirements
+- AI provided resume tips is a hard requirement
+- AI eliminating any potential racial, lifestyle, cultural, etc. indicators is a hard requirement
+- Back end process data aggregation is a hard requirement
+
+Data Points:
+
+- Data Point 1 - Deciding to move forward with a candidate
+- Data Point 2 - Unlocking a full candidate profile to offer an interview
+- Data Point 3 - 5 question survey to job candidate about interviewer
+- Data Point 4 - 5 question survey to interviewer about job candidate
+- Data Point 5 - Accumulation of demographic data after rejecting a candidate or presenting an offer
+
+Monthly data and analytic report presenting KPI metrics as it relates to the interview and hiring process. 
+
+#### Hiring Manager User Journey
+
+Operational Process - Registration & Intake (Employer)
+1. New Employer registers on platform
+2. AI autofills company data (ease of use) company/hiring manager completes data entry for non public facing information
+3. User view is a dashboard and workspace
+4. Hiring Manager uploads open roles
+
+#### Job Seeker User Journey
+
+Assumptions:
+1. Register for site
+2. Upload Resume and demographic/contact information
+3. View number of interested hits
+4. Contact employer through app?
+5. Remove resume
+6. Update resume
+7. Mark as inactive (hired!) - does the system do this?
+
+#### Admin User Journey
+
+Assumptions:
+2. Mark Candidate as hired
+3. Maintain internal reference and user data
+4. Reporting and analytics
+
+## Technical Details
+
+Assume a trained LLM for purposes of the solution
+
+## Domain areas:
+
+Needs to interface to most popular HR systems (THESE ARE EXAMPLES ONLY).
+
+- SAP SuccessFactors: Best for Enterprises
+- UKG Pro: Best for AI-Powered Functionality
+- Paycor: Best for Companies That Need Benefits
+- Workday: Best for Simple Layout
+- Paycom: Best for Automations
+- Namely HR: Best for Low-Cost Plan
+- GoCo: Best for Time-Saving Features
+- isolved: Best for New Businesses
+- Paylocity: Best Payroll and HR Software Combo
+- Trinet: Best for Professional Employer Organization (PEO) Services
+- Gusto: Best for Contractor-Only Companies

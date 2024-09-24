@@ -1,4 +1,4 @@
-# Business requiremenrs
+# Business requirements
 
 - The platform must parse candidate resumes into S.M.A.R.T. (Specific, measurable, achievable, relevant, time-bound) goal format to quantifiably match their skills and experience to job descriptions.
 - The platform must provide a match score between roles and candidates.

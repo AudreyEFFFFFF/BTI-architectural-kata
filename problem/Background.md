@@ -1,27 +1,5 @@
-# Problem
+# Background
 
-## Diversity Cyber Council Kata Requirements 2024
+ClearView is a supplemental HR platform created by the Diversity Cyber Council, a 501c3 non-profit serving underrepresented demographics in the technology industry. ClearView intends to provide a better hiring practice by effectively matching objective skills and qualifying experiences with job descriptions, while obscuring personal and demographic data. This will allow employers to find better candidates by finding the best need-based matches while decreasing the impact of bias. The platform will also allow consultants to observe interviews and gather data to proactively and strategically reduce bias throughout the process.
 
-### Our Mission
-
-Diversity Cyber Council (https://www.diversitycybercouncil.com/) is a 501c3 Non-Profit that serves under-represented demographics in the tech industry by facilitating education, training, and staffing opportunities to establish a sustainable and diverse talent pipeline to the workforce.
-
-### Our Vision
-
-Our vision is to enhance inclusion and representation in the tech industry through training, mentoring, networking, and visibility programs.
-
-### Our Goal
-
-Our goal is to establish a sustainable and diverse talent pipeline that extends career equity to underrepresented demographics by providing access to competent training programs that lead to direct employment opportunities.
-
-## The Kata
-
-### Overview
-
-Program Name: ClearView
-
-Program Summary: ClearView is a supplemental HR platform that anonymizes candidate information while highlighting objective skills and qualifying experience to reduce bias in the hiring process. Clear View will also be service based, enabling DEI consultants to shadow employer interviews to rate the interviewer and report findings to executive management in an effort to proactively and strategically reduce bias in the interview process.
-
-Problem Statement #1: The lack of impactful metrics that identify and reduce potential biases in the job candidate hiring and interview process.
-
-Problem Statement #2: The redundancy and ineffectiveness of the traditional ATS (applicant tracking software) matching viable candidates with job descriptions.
+The platform also aims to provide a better experience for both job seekers and employers. It aims to leverage AI not just for job matching, but also for reducing redundant data entry tasks and providing feedback to candidates on their resumes. 

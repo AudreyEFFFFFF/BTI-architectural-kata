@@ -1,4 +1,4 @@
-# Problem Background
+# Problem
 
 ## Diversity Cyber Council Kata Requirements 2024
 

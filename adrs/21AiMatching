@@ -1,0 +1,40 @@
+# Should the LLM be used for the matching step, or just the parsing.
+
+## Status
+
+- Proposed
+- Accepted
+- Superseded
+
+## Context
+
+The AI needs to parse the candidate resumes into SMART goals. After that point, we have two options:
+- AI is given job descriptions and matches/scores each resume against it
+- AI parses job descriptions into a compatible format with resumes, then a conventional (non-AI) matching systems creates matches and scores candidates against it.
+
+### AI Matching
+Pros
+- Next best thing to knowledgeable human matching
+
+Cons
+- No visibility into matching process
+- Potentially expensive (depending on cost of LLM usage)
+
+### AI Parsing, conventional matching
+Pros
+- More control over the matching process
+- More visibility into the matching process
+
+Cons
+- We will need to be more specific about the way resumes are parsed (consistent format/wording)
+- Parsed resumes might be less human-readable.
+- Might miss "loose" connections that are hard for a machine to recognize (ie job calls for git experience, candidate has svn experience)
+
+
+## Decision
+
+Decision ("We will...") and justification (the "why").
+
+## Consequences
+
+Trade-offs and impact of decision.

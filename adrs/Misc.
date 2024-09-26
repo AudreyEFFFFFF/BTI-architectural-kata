@@ -1,0 +1,9 @@
+Random ideas to make into ADRs
+
+- Make users and companies the same database entity 
+  - we decided they are too different to be in the same table. We did think they belong in the same database.
+
+
+- We should in
+
+-

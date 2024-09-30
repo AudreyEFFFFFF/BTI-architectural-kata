@@ -45,9 +45,9 @@ A system requirement is that the platform integrates in a clean and user-friendl
 
 ### Worksheet
 
-![Characteristics](BTI-architectural-kata/images/styles_worksheet_1.jpg)
+![Characteristics](/BTI-architectural-kata/images/styles_worksheet_1.jpg)
 
-![Styles](BTI-architectural-kata/images/styles_worksheet_2.jpg)
+![Styles](/BTI-architectural-kata/images/styles_worksheet_2.jpg)
 
 As the results of the priority analysis aligned with our instincts about the best architecture patterns for this task, we felt comfortable moving forward.
 

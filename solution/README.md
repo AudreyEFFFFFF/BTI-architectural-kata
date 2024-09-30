@@ -2,4 +2,4 @@
 
 ## Overall Summary
 
-TODO
+We chose to build an event-driven, service-oriented architecture.

@@ -45,7 +45,9 @@ A system requirement is that the platform integrates in a clean and user-friendl
 
 ### Worksheet
 
-<filled out worksheets TBD - Audrey will do tomorrow morning on the train>
+!(images/styles_worksheet_1.jpeg)
+
+!(images/styles_worksheet_2.jpeg)
 
 As the results of the priority analysis aligned with our instincts about the best architecture patterns for this task, we felt comfortable moving forward.
 

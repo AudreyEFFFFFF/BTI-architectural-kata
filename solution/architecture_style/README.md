@@ -45,9 +45,9 @@ A system requirement is that the platform integrates in a clean and user-friendl
 
 ### Worksheet
 
-![Characteristics](/images/styles_worksheet_1.jpeg)
+![Characteristics](images/styles_worksheet_1.jpg)
 
-![Styles](/images/styles_worksheet_2.jpeg)
+![Styles](images/styles_worksheet_2.jpg)
 
 As the results of the priority analysis aligned with our instincts about the best architecture patterns for this task, we felt comfortable moving forward.
 

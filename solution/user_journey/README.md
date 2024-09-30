@@ -2,4 +2,4 @@
 
 ## Diagram
 
-TODO
+![Characteristics](/images/usage_diagram.jpeg)
